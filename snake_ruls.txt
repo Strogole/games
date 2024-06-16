@@ -1,7 +1,20 @@
+<<<<ENGLISH>>>>
+- the goal of the game is to score as many points as possible by increasing the length of the snake:
+- when absorbing a special object on the game screen, the length of the snake increases by one block;
+- the player starts moving from the left side of the screen;
+- the player can move left, right, up or down;
+- the player cannot move beyond the screen; when colliding with the boundaries, the game ends;
+- the game ends when the snake crashes into itself;
+- the game ends when the snake crashes into the border of the playing field;
+- the game also ends when the user closes the window.
+
+<<<По русски>>>
 - цель игры — набрать как можно больше очков за счёт увеличения длины змейки:
 - при поглощении специального объекта на игровом экране длина змейки увеличивается на один блок;
 - игрок начинает движение с левой стороны экрана;
 - игрок может двигаться влево, вправо, вверх или вниз;
 - игрок не может двигаться за пределы экрана, при столкновении с границами игра заканчивается;
 - игра заканчивается, когда змейка врезается сама в себя;
+- игра заканчивается, когда змейка врезается в границу игрового поля;
 - ещё игра заканчивается, когда пользователь закрывает окно.
+
